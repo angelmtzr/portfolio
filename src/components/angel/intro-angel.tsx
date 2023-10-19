@@ -44,7 +44,7 @@ export default function Intro() {
               duration: 0.7,
             }}
           >
-            👋
+            🥦
           </motion.span>
         </div>
       </div>
@@ -73,7 +73,7 @@ export default function Intro() {
       >
         <a
           className="group bg-gray-900 text-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition cursor-pointer"
-          href="/CV.pdf"
+          href="/angel.pdf"
           download
         >
           Download CV{" "}
