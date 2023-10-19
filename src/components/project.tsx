@@ -1,7 +1,5 @@
 "use client";
 
-import { useRef } from "react";
-import { ange } from "@/data";
 import Image from "next/image";
 import { motion, useScroll, useTransform } from "framer-motion";
 

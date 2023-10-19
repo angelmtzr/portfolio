@@ -1,7 +1,7 @@
 import PortfolioHeader from "@/components/portfolio-header";
-import Intro from "@/components/intro-leo";
+import Intro from "@/components/leo/intro-leo";
 import SectionDivider from "@/components/section-divider";
-import Projects from "@/components/projects-leo";
+import Projects from "@/components/leo/projects-leo";
 
 export default function Page() {
   return (

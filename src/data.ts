@@ -49,7 +49,7 @@ export const angelProjects = [
   {
     title: "Visual Threads",
     description:
-      "A desktop application that demonstartes in a creative way how computer threads work.",
+      "A desktop application that demonstrates in a creative way how computer threads work.",
     tags: ["Java", "Swing"],
     imageUrl: "/threads.jpeg",
   },

@@ -1,9 +1,9 @@
 "use client";
 
 import React from "react";
-import SectionHeading from "./section-heading";
+import SectionHeading from "../section-heading";
 import { angelProjects } from "@/data";
-import Project from "./project";
+import Project from "../project";
 
 export default function Projects() {
   return (
