@@ -7,7 +7,7 @@ export const homeLinks = [
   },
   {
     name: "Angel",
-    href: "/angelmtzr",
+    href: "/angel",
   },
 ] as const;
 
